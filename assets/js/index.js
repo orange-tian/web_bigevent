@@ -1,5 +1,8 @@
 $(function () {
     getUserInfo()
+
+
+
 })
 
 function getUserInfo() {
