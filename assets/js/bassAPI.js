@@ -4,7 +4,7 @@ $.ajaxPrefilter(function (options) {
     // 获取到 url 地址
     // console.log(options.url)
     // 把这个 地址 拼接上 完整的根路径
-    options.url = 'http://www.liulongbin.top:3007' + options.url
+    options.url = 'http://api-breakingnews-web.itheima.net' + options.url
     // console.log(options.url)
 
 
